@@ -7,7 +7,6 @@
 📍 Bangkok, Thailand · 🎓 FIBO, KMUTT
 
 [![Email](https://img.shields.io/badge/Email-D32F2F?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ![Open To](https://img.shields.io/badge/OPEN%20TO-Robotics%20Internships%20%26%20Research%20Roles-1D9E75?style=flat)
 
