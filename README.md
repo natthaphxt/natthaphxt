@@ -1,6 +1,6 @@
 <div align="center">
 
-# Natthaphat Lapsittiwong
+# Natthapatch Lapsittiwong
 
 **Robotics & Control Systems Engineer**
 
