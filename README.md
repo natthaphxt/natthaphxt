@@ -44,7 +44,3 @@ Robotics & Automation Engineering student at **KMUTT's Institute of Field Roboti
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=natthaphxt&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natthaphxt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
