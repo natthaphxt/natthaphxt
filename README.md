@@ -14,7 +14,7 @@
 
 ---
 
-## 🧑 About
+## 👦🏻 About
 
 Robotics & Automation Engineering student at **KMUTT's Institute of Field Robotics (FIBO)**. Passionate about control systems, reinforcement learning, and autonomous robots. I enjoy bridging theoretical control concepts — from classical PID to deep RL — with real-world robotic implementations.
 
